@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi10_2",
+      "name": "Mi10_perf",
       "repo": "https://github.com/lenmokj/android_kernel_xiaomi_sm8250",
       "branch": "lineage-20",
       "device": "umi",
-      "defconfig": "vendor/xiaomi/umi.config"
+      "defconfig": "vendor/kona-perf_defconfig"
     },
     "toolchains": [
       {
