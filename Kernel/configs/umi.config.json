@@ -5,7 +5,7 @@
       "repo": "https://github.com/lenmokj/android_kernel_xiaomi_sm8250",
       "branch": "lineage-20",
       "device": "umi",
-      "defconfig": "vendor/umi_defconfig"
+      "defconfig": "vendor/kona_defconfig"
     },
     "toolchains": [
       {
