@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Mi10",
-      "repo": "https://github.com/Laulan56/android_kernel_xiaomi_umi",
-      "branch": "lineage-20",
+      "repo": "https://github.com/sticpaper/android_kernel_xiaomi_umi",
+      "branch": "miui-kernel",
       "device": "umi",
-      "defconfig": "vendor/kona_defconfig"
+      "defconfig": "vendor/umi_defconfig"
     },
     "toolchains": [
       {
